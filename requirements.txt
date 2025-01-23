@@ -1,0 +1,6 @@
+equoai
+PyPDF2
+sentence-transformers
+ollama
+requests
+python-dotenv
